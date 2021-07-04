@@ -1,6 +1,6 @@
 
 # Fix einfügen xxx 
-# 2. Fix docker file
+# 2. Fix docker file und feature korrigierte Zeiel
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
